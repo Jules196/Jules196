@@ -10,9 +10,9 @@
 
 ### 👋 Hey there! I'm Jules
 
-*Passionate developer · Open source enthusiast · Always learning*
+*Automotive Engineering Student · Developer · Motorsport Enthusiast*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Building+things+one+commit+at+a+time+%F0%9F%9A%80;Always+open+to+new+ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Automotive+Engineering+%F0%9F%8F%8E%EF%B8%8F;Building+things+one+commit+at+a+time+%F0%9F%9A%80;Motorsport+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,14 +22,15 @@
 
 ```yaml
 name: Jules
-located_in: GitHub Universe
-current_focus: Building awesome projects
-learning: Something new every day
-hobbies:
-  - Coding
-  - Open Source
-  - Problem Solving
-  - Exploring new technologies
+located_in: Germany
+current_focus: Automotive Engineering & Software Development
+learning: Embedded Systems, Simulation, Vehicle Dynamics
+focus_areas:
+  - Automotive Engineering
+  - Motorsport & Racing
+  - Software Development
+  - Control Systems
+  - Vehicle Simulation
 ```
 
 ---
@@ -46,39 +47,12 @@ hobbies:
 **Frameworks & Libraries**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jules196&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules196&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jules196&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jules196&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -94,11 +68,11 @@ hobbies:
 
 ---
 
-## 💡 A Random Dev Quote
+## 🏎️ Quote
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"To go fast, you have to make the right compromises — every gram, every degree, every millisecond matters. That's not just racing, that's engineering."*
 
 </div>
 
