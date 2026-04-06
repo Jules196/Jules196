@@ -25,13 +25,13 @@ name: Jules
 located_in: Germany
 current_focus: Automotive Engineering & Software Development
 engineer_since: Autumn 2018
-learning: Embedded Systems, Simulation, Vehicle Dynamics
+learning: Embedded Systems, Simulation Tools, Vehicle Dynamics, Machine Learning
 focus_areas:
   - Automotive Engineering
   - Motorsport & Racing
   - Software Development
-  - Control Systems
-  - Vehicle Simulation
+  - Simulation Tools & Rapid Prototyping
+  - Machine Learning
 ```
 
 ---
@@ -92,6 +92,7 @@ focus_areas:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jules196-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jules196)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Nolden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-nolden-519432235)
 
 </div>
 
