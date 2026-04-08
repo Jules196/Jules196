@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm Jules
+### 👋 Hey there! I'm Julian
 
 *Automotive Engineer since 2018 · Developer · Motorsport Enthusiast*
 
@@ -21,7 +21,7 @@
 ## 🚀 About Me
 
 ```yaml
-name: Jules
+name: Julian
 located_in: Germany
 current_focus: Automotive Engineering & Software Development
 engineer_since: Autumn 2018
